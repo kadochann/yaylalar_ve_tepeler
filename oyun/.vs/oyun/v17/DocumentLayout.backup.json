@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\d\u0026d\\oyun\\",
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\oyun\\charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\mekanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:mekanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\kahramanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:kahramanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\dusmanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:dusmanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "charClass.cs",
-              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\oyun\\charClass.cs",
-              "RelativeDocumentMoniker": "charClass.cs",
-              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\oyun\\charClass.cs",
-              "RelativeToolTip": "charClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "items.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\items.cs",
+              "RelativeDocumentMoniker": "items.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\items.cs",
+              "RelativeToolTip": "items.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T06:48:12.433Z",
+              "WhenOpened": "2024-08-20T05:57:08.297Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dusmanlar.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\dusmanlar.cs",
+              "RelativeDocumentMoniker": "dusmanlar.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\dusmanlar.cs",
+              "RelativeToolTip": "dusmanlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:51:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kahramanlar.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\kahramanlar.cs",
+              "RelativeDocumentMoniker": "kahramanlar.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\kahramanlar.cs",
+              "RelativeToolTip": "kahramanlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:36:45.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs",
+              "RelativeDocumentMoniker": "program.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs",
+              "RelativeToolTip": "program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:56:48.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mekanlar.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\mekanlar.cs",
+              "RelativeDocumentMoniker": "mekanlar.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\mekanlar.cs",
+              "RelativeToolTip": "mekanlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:57:18.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "charClass.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charClass.cs",
+              "RelativeDocumentMoniker": "charClass.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charClass.cs",
+              "RelativeToolTip": "charClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:48:12.433Z",
+              "EditorCaption": ""
             }
           ]
         }

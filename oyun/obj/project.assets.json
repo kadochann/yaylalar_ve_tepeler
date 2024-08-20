@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\d&d\\oyun\\oyun.csproj",
+      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\d&d\\yaylalar_ve_tepeler\\oyun\\oyun.csproj",
       "projectName": "oyun",
-      "projectPath": "C:\\Users\\Casper\\Desktop\\d&d\\oyun\\oyun.csproj",
+      "projectPath": "C:\\Users\\Casper\\Desktop\\d&d\\yaylalar_ve_tepeler\\oyun\\oyun.csproj",
       "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casper\\Desktop\\d&d\\oyun\\obj\\",
+      "outputPath": "C:\\Users\\Casper\\Desktop\\d&d\\yaylalar_ve_tepeler\\oyun\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
