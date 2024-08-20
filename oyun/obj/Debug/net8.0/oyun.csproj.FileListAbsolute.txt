@@ -1,0 +1,14 @@
+C:\Users\Casper\Desktop\d&d\oyun\bin\Debug\net8.0\oyun.exe
+C:\Users\Casper\Desktop\d&d\oyun\bin\Debug\net8.0\oyun.deps.json
+C:\Users\Casper\Desktop\d&d\oyun\bin\Debug\net8.0\oyun.runtimeconfig.json
+C:\Users\Casper\Desktop\d&d\oyun\bin\Debug\net8.0\oyun.dll
+C:\Users\Casper\Desktop\d&d\oyun\bin\Debug\net8.0\oyun.pdb
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.AssemblyInfo.cs
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.dll
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\refint\oyun.dll
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.pdb
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\oyun.genruntimeconfig.cache
+C:\Users\Casper\Desktop\d&d\oyun\obj\Debug\net8.0\ref\oyun.dll
