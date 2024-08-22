@@ -8,62 +8,68 @@ using System;
 
 namespace charClasses
 {
-    public abstract class Karakterler:Itemler
+    public abstract class Karakterler : Itemler
     {
         public int attackValue;
         public int defenseValue;
         public int healValue;
-        public List<Itemler> item= new List<Itemler>();
+        public List<Itemler> itemList = new List<Itemler>();
         public int energy;
-        public virtual void Attack1(int gelenDefense)
+        public string? charName;
+
+        public Karakterler(string name, int attack, int defense, int heal, int energy)
         {
+            this.charName = name;
+            this.attackValue = attack;
+            this.defenseValue = defense;
+            this.healValue = heal;
+            this.energy = energy;
+        }//karakterler constructor
+        public virtual void Saldır(int gelenDefense, string silah) {
+            Console.WriteLine($"{charName} {silah} ile saldırdı");
             if (attackValue > gelenDefense)
             {
-                Console.WriteLine("saldırı başarılı!");
+                Console.WriteLine($"{charName} saldırısında başarılı!");
             }
             else
             {
-                Console.WriteLine("saldırı başarısız");
+                Console.WriteLine($"{charName} saldırısında başarısız");
             }
-
         }
-        public virtual void Attack2(int gelenDefense)
-        {
-            if (attackValue > gelenDefense)
-            {
-                Console.WriteLine("saldırı başarılı!");
-            }
-            else
-            {
-                Console.WriteLine("saldırı başarısız");
-            }
-
-        }
-
         public virtual void Defense(int gelenSaldırı)
         {
-            Console.WriteLine("SAVUNMA");
             if (gelenSaldırı < defenseValue)
             {
-                Console.WriteLine("savunma başarılı");
+                Console.WriteLine($"{charName} savunmada başarılı");
             }
             else
             {
-                Console.WriteLine("savunma başarısız. enerji azaldı.");
+                Console.WriteLine($"{charName} savunmada başarısız. enerjisi azaldı.");
+                int hasar= gelenSaldırı-defenseValue;
+                this.Energy(hasar);
             }
         }
 
         public virtual void Heal()
         {
             energy += healValue;
-            Console.WriteLine($"iyileşme sağlandı\nenerji:{energy}");
+            Console.WriteLine($"{charName} {healValue} kadar iyileşme sağladı\nenerji:{energy}");
         }
 
         public virtual void Energy(int hasar)
         {
-            energy-=hasar;
+            energy -= hasar;
+            Console.WriteLine($"{charName} hasar aldı! enerji: {energy}");
         }
-        public  over
+        public virtual void Envanter()
+        {
+            Console.WriteLine("envanterindekiler:");
+            foreach (Itemler itemler in itemList)
+            {
+                Console.WriteLine(itemler.Name);
+            }
+            //public  over
+        }
     }
 }
 

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\kahramanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:kahramanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|solutionrelative:charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45358DA4-7D9F-427C-8FBF-A85C2A296DA4}|oyun.csproj|c:\\users\\casper\\desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\dusmanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,33 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "items.cs",
-              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\items.cs",
-              "RelativeDocumentMoniker": "items.cs",
-              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\items.cs",
-              "RelativeToolTip": "items.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:57:08.297Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "dusmanlar.cs",
               "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\dusmanlar.cs",
               "RelativeDocumentMoniker": "dusmanlar.cs",
               "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\dusmanlar.cs",
               "RelativeToolTip": "dusmanlar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:51:00.548Z",
+              "WhenOpened": "2024-08-22T07:39:06.949Z",
               "EditorCaption": ""
             },
             {
@@ -67,33 +49,33 @@
               "RelativeDocumentMoniker": "kahramanlar.cs",
               "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\kahramanlar.cs",
               "RelativeToolTip": "kahramanlar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T06:36:45.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "program.cs",
               "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs",
               "RelativeDocumentMoniker": "program.cs",
               "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\program.cs",
               "RelativeToolTip": "program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T05:56:48.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "charClass.cs",
               "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charClass.cs",
               "RelativeDocumentMoniker": "charClass.cs",
               "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\oyun\\charClass.cs",
               "RelativeToolTip": "charClass.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T06:48:12.433Z",
               "EditorCaption": ""

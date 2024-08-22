@@ -28,5 +28,20 @@ Kahramanımızın elinde sadece taş ve sopa vardır; ancak içinde büyük bir 
 Şimdi, karşısındaki düşmana karşı koymak ve yolculuğunu sürdürmek zorundadır.
 ";
         public string saldırı = "Saldırmak için birini seç:\n1-Taş (+2 hasar, +2 savunma) \n2-Sopa(+3 hasar, +1 savunma)";
+        public string kazanma = @"
+_____________tebrikler!!!___________________
+eşkıyayı yendin. yoluna devam etmeden önce arkadan bir ses duyulur. çalıların
+çalıların arasından  elinde sopası sırtında abasıyla bir çoban çıkageliyor. bu tehlikeli yerlerde ne yaptığını sorar.
+hikayeni anlattığında sana yolunun bir kısmında eşlik edebileceğini ve tehlikelere karşı seni koruyabileceğini söyler.
+kabul edersin ve yola birlikte devam edilir.
+
+
+
+Yeni karakter: Çoban (yaylaların yalnız koruyucusu)
+Saldırı: Sürünün Hücumu - Koyunlar ve keçiler düşmana hücum eder.
+İyileştirme: Kavalın Büyüsü - Kaval çalarak arkadaşlarının moralini yükseltir ve hafif yaraları iyileştirir.
+
+Enerj:15 Saldırı:+5 Savunma:+3 İyileşme: 3
+";
     }
 }

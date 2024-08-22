@@ -1,40 +1,38 @@
 ﻿using System;
 using Dusmanlar;
-using Kahramanlar;
-
+using charClasses;
 namespace Items
 {
-    public class Itemler: Karakterler
+    public abstract class Itemler
     {
         public string? Name { get; set; }
         public int Attack { get; set; }
         public int Defense { get; set; }
         public int Heal { get; set; }
-
-        public virtual void Use(Karakterler karakterler)
-        {
-
-            Console.WriteLine($"{itemler.Name} itemı kullanıldı!");
-            Console.WriteLine($"itemın gücü:\nsaldırı: +{itemler.Attack}\nsavunma: +{itemler.Defense}\niyileşme: +{itemler.Heal}");
-            karakterler.attackValue += Attack;
-            karakterler.defenseValue += Defense;
-            karakterler.healValue += Heal;
-        }
-    }
-    public class Hancer: Itemler
+        public virtual void Use(Karakterler karakter)
     {
-        string name => "Efsunlu Hançer";
-        public int attack => 3;
-        public int defense => 2;
-        public int heal => 1;
 
-        public override void Use(Karakterler karakterler)
+        //Console.WriteLine($"{this.Name} itemı kullanıldı!");
+        Console.WriteLine($"itemın gücü:\nsaldırı: +{this.Attack}\nsavunma: +{this.Defense}\niyileşme: +{this.Heal}");
+        karakter.attackValue += this.Attack;
+        karakter.defenseValue += this.Defense;
+        karakter.healValue += this.Heal;
+    }
+    }
+
+    
+
+    public class Hancer : Itemler
+    {
+        public Hancer()
         {
-            Itemler itemler = new Hancer();
-
-            base.Use(karakterler);
+            Name = "Efsunlu Hançer";
+            Attack = 3;
+            Defense = 2;
+            Heal = 1;
         }
     }
+
     public class Kusak : Itemler
     {
         string name => "Şifalı Kuşak";
@@ -45,31 +43,43 @@ namespace Items
     }
     public class Tabanca : Itemler
     {
-        string name => "Babadan yadigar beylik tabanca";
-        int attack => 6;
-        int defense => 0;
-        int heal => 0;
+        public Tabanca()
+        {
+            Name = "Babadan yadigar beylik tabanca";
+            Attack = 6;
+            Defense = 0;
+            Heal = 0;
+        }
     }
     public class Yuzuk : Itemler
     {
-        string name => "Gümüş Sedefli Yüzük";
-        int attack => 3;
-        int defense => 5;
-        int heal => 2;
+        public Yuzuk()
+        {
+            Name = "Gümüş Sedefli Yüzük";
+            Attack = 3;
+            Defense = 5;
+            Heal = 2;
+        }
     }
     public class Kolye : Itemler
     {
-        string name => "Nazarlık kolye";
-        int attack => 1;
-        int heal => 5;
-        int defense => 6;
+        public Kolye()
+        {
+            Name = "Nazarlık kolye";
+            Attack = 1;
+            Defense = 5;
+            Heal = 6;
+        }
     }
     public class Sopa : Itemler
     {
-        string name => "Çobanın sopası";
-        int attack => 5;
-        int defense => 4; 
-        int heal => 0;
+        public Sopa()
+        {
+            Name = "Çobanın sopası";
+            Attack = 5;
+            Defense = 4;
+            Heal = 3;
+        }
     }
+
 }
-    
