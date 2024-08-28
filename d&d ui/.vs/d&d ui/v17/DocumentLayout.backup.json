@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D77A14-E3F5-4B09-98BE-8C3F697855C5}|d\u0026d ui.csproj|solutionrelative:oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "items.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\items.cs",
+              "RelativeDocumentMoniker": "items.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\items.cs",
+              "RelativeToolTip": "items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:12:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "oyun.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\oyun.cs",
+              "RelativeDocumentMoniker": "oyun.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\oyun.cs",
+              "RelativeToolTip": "oyun.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAnwEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:10:26.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:07:00.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:17:06.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\d\u0026d\\yaylalar_ve_tepeler\\d\u0026d ui\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:13:36.087Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

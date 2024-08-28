@@ -27,7 +27,7 @@ namespace charClasses
         }//karakterler constructor
         public virtual void Saldır(int gelenDefense, string silah) {
             Console.WriteLine($"{charName} {silah} ile saldırdı");
-            if (attackValue > gelenDefense)
+            if (this.attackValue >= gelenDefense)
             {
                 Console.WriteLine($"{charName} saldırısında başarılı!");
             }
@@ -38,15 +38,16 @@ namespace charClasses
         }
         public virtual void Defense(int gelenSaldırı)
         {
-            if (gelenSaldırı < defenseValue)
+            if (gelenSaldırı <= defenseValue)
             {
-                Console.WriteLine($"{charName} savunmada başarılı");
+                Console.WriteLine($"\n{charName} savunmada başarılı");
             }
             else
             {
-                Console.WriteLine($"{charName} savunmada başarısız. enerjisi azaldı.");
+                Console.WriteLine($"\n{charName} savunmada başarısız. enerjisi azaldı.\n");
                 int hasar= gelenSaldırı-defenseValue;
                 this.Energy(hasar);
+                this.Heal();
             }
         }
 
@@ -61,9 +62,17 @@ namespace charClasses
             energy -= hasar;
             Console.WriteLine($"{charName} hasar aldı! enerji: {energy}");
         }
-        public virtual void Envanter()
+        public void UseItem(Itemler itemler)
         {
-            Console.WriteLine("envanterindekiler:");
+            
+            itemler.Use(this);
+            itemList.Remove(itemler);
+            
+        }
+        public virtual void Envanter(Itemler item)
+        {
+            itemList.Add(item);
+            Console.WriteLine("\nenvanterindekiler:");
             foreach (Itemler itemler in itemList)
             {
                 Console.WriteLine(itemler.Name);

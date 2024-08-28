@@ -11,13 +11,13 @@ namespace Items
         public int Heal { get; set; }
         public virtual void Use(Karakterler karakter)
     {
+            karakter.attackValue += this.Attack;
+            karakter.defenseValue += this.Defense;
+            karakter.healValue += this.Heal;
 
-        //Console.WriteLine($"{this.Name} itemı kullanıldı!");
-        Console.WriteLine($"itemın gücü:\nsaldırı: +{this.Attack}\nsavunma: +{this.Defense}\niyileşme: +{this.Heal}");
-        karakter.attackValue += this.Attack;
-        karakter.defenseValue += this.Defense;
-        karakter.healValue += this.Heal;
-    }
+            Console.WriteLine($"{Name} itemı kullanıldı!");
+            Console.WriteLine($"Itemın gücü: Saldırı: +{Attack}, Savunma: +{Defense}, İyileşme: +{Heal}");
+        }
     }
 
     
@@ -35,10 +35,10 @@ namespace Items
 
     public class Kusak : Itemler
     {
-        string name => "Şifalı Kuşak";
-        int attack => 0;
-        int defense => 1;
-        int heal => 5;
+        string name = "Şifalı Kuşak";
+        int attack = 0;
+        int defense = 1;
+        int heal = 5;
 
     }
     public class Tabanca : Itemler

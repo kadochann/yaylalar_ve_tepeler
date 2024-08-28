@@ -1,0 +1,5 @@
+C:\Users\Casper\Desktop\d&d\yaylalar_ve_tepeler\d&d ui\obj\Debug\d&d ui.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\d&d\yaylalar_ve_tepeler\d&d ui\obj\Debug\d_d_ui.Form1.resources
+C:\Users\Casper\Desktop\d&d\yaylalar_ve_tepeler\d&d ui\obj\Debug\d_d_ui.Properties.Resources.resources
+C:\Users\Casper\Desktop\d&d\yaylalar_ve_tepeler\d&d ui\obj\Debug\d&d ui.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\d&d\yaylalar_ve_tepeler\d&d ui\obj\Debug\d&d ui.csproj.CoreCompileInputs.cache
